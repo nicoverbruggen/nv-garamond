@@ -4,12 +4,6 @@ NV Garamond is an [EB Garamond](https://github.com/georgd/EB-Garamond) variant, 
 
 It serves a similar purpose to [EB Garamond Absinthe](https://www.mobileread.com/forums/showpost.php?p=3739272&postcount=404) as found on the MobileRead Forums, but other than some resized glyphs and adjusted metrics it does not contain any other alterations (default number symbols remain, for example).
 
-## Comparison
-
-<img src="./comparison/ebgaramond.png" width=300>
-<img src="./comparison/nvgaramond.png" width=300>
-<img src="./comparison/nvegaramond.png" width=300>
-
 ## How was this made?
 
 Using [FontForge](https://fontforge.org/en-US/). You too can learn how to [scale glyphs](https://www.fonttutorials.com/how-to-scale-glyphs/), [adjust metrics](http://designwithfontforge.com/en-US/Line_Spacing.html) and [generate a font](https://www.fonttutorials.com/how-to-fix-font-abg-thumbnails/#generating-your-font).
