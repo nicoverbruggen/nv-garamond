@@ -12,10 +12,11 @@ I've included the FontForge files in this repository.
 
 ## Versions
 
-There are two versions included in the repo:
+There is one version included in the repo:
 
-- **NV Garamond (preferred)**: Best on Kobo. With adjusted metrics and a minor size bump. Because this one starts thinner and at a tight line spacing, you have more control over the precise weight and line spacing on Kobo devices.
-- **NV eGaramond**: The same as above, but with a 10% bump to the regular and italic weights for better contrast on e-ink displays. Due to the weight bump, appears a bit wider (which is not my personal preference) but I've included this version as an alternative if you think the original is too thin.
+- **NV Garamond**: Best on Kobo. With adjusted metrics and a minor size bump. Because this one starts thinner and at a tight line spacing, you have more control over the precise weight and line spacing on Kobo devices.
+
+(There used to be two versions included, but the version with increased weight was broken in a few ways, so I've taken it down.)
 
 ## License
 
