@@ -14,9 +14,9 @@ I've included the FontForge files in this repository.
 
 There is one version included in the repo:
 
-- **NV Garamond (Kobo)**: Best on Kobo. With adjusted metrics and a minor size bump, and old-style kerning. This enables improved kerning with the `kepub` renderer. Because this one starts thinner and at a tight line spacing, you have more control over the precise weight and line spacing on Kobo devices.
+- **NV Garamond**: With adjusted metrics and a minor size bump. Because this one starts thinner and at a tight line spacing, you have more control over the precise weight and line spacing on Kobo devices.
 
-- **NV Garamond (Classic)**: With adjusted metrics and a minor size bump. Because this one starts thinner and at a tight line spacing, you have more control over the precise weight and line spacing on Kobo devices.
+For an optimized Kobo version, please see my [other repository](https://github.com/nicoverbruggen/ebook-fonts) and look for the KF version of Garamond.
 
 ## License
 
